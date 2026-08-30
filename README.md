@@ -2,9 +2,9 @@
 
 # Gangam Purna Chand Reddy
 
-### Electronics & Software Engineering Student
+### Embedded Systems & IoT | Software Development
 
-Building practical solutions through programming, embedded systems, and technology.
+Building hands-on hardware — FPGA, sensors, microcontrollers — and the software that supports it.
 
 <br>
 
@@ -22,35 +22,35 @@ Building practical solutions through programming, embedded systems, and technolo
 
 ## Introduction
 
-I'm a **B.Tech student at the Institute of Aeronautical Engineering**, with an interest in software development, electronics, and embedded systems.
+Final-year **B.Tech ECE student at the Institute of Aeronautical Engineering**, focused on embedded systems, IoT, and hardware/electronics testing — building practical hardware projects with ESP32, Arduino, FPGA/Verilog, and sensors.
 
-I enjoy learning by building — turning programming concepts and engineering knowledge into practical projects. My current technical interests span programming, web technologies, embedded platforms, and development tools.
+Alongside hardware, I have software development experience from my internship at **Indus Innovative Technologies**, where I structured large-scale JSON datasets for an AI-assisted school management platform.
 
-I'm continuously working on strengthening my fundamentals and gaining hands-on experience through projects.
+I like working end-to-end — from circuits and firmware up through backend systems.
 
 ---
 
 ## Technical Skills
 
-### Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js" />
-</p>
-
-### Web Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css" />
-</p>
-
-### Embedded & Engineering
+### Embedded & Hardware
 
 <p>
 <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
-`ESP32` &nbsp; `Vivado` &nbsp; `Embedded Systems`
+`ESP32` &nbsp; `Verilog HDL` &nbsp; `Xilinx Vivado` &nbsp; `FPGA` &nbsp; `Sensors` &nbsp; `Circuit Design`
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
+</p>
+
+### Software Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,django" />
+</p>
 
 ### Tools
 
@@ -60,41 +60,65 @@ I'm continuously working on strengthening my fundamentals and gaining hands-on e
 
 ---
 
-## Projects
+## Hardware Projects
 
-### EAGLE
+### 🔲 FPGA-Based Image Equalizer
+FPGA-based image enhancement system built with Verilog HDL and Xilinx Vivado — processes grayscale images through hardware-based pixel and histogram processing to improve image contrast, demonstrating parallel image processing on FPGA.
 
-A hands-on engineering project developed as part of my technical learning and project work.
-
-**Focus:** Programming & Engineering
-
-**Repository:**  
-[View EAGLE on GitHub](https://github.com/purnachandreddy/EAGLE)
+**Repository:** [View on GitHub](https://github.com/purnachandreddy/FPGA-Based-Image-Equalizer)
 
 ---
 
+### 🔋 Smart Battery Health Tester
+ESP32-based device that evaluates AA/AAA battery health using controlled resistive load testing rather than voltage alone — estimating internal resistance and charge percentage, with a local Wi-Fi dashboard and on-device calibration.
+
+**Repository:** [View on GitHub](https://github.com/purnachandreddy/battery-health-check)
+
+---
+
+### 🌱 Adaptive IoT Smart Plant Irrigation System
+ESP32-based irrigation controller that predicts watering needs using linear regression on soil-moisture history, delivers water in verified pulses, and provides real-time monitoring through a self-hosted web dashboard.
+
+**Repository:** [View on GitHub](https://github.com/purnachandreddy/smart-irrigation-system-)
+
+---
+
+### 👓 EAGLE — Embedded Augmented Glass Lens Equipment
+Wearable IoT smart-glass concept syncing notifications from a mobile app via Bluetooth. *(Forked project — contributed to a shared concept, not original authorship.)*
+
+**Repository:** [View on GitHub](https://github.com/purnachandreddy/EAGLE)
+
+---
+
+## Software Experience
+
+**Software Developer Intern** — Indus Innovative Technologies Private Limited *(May – Jun 2026)*
+Structured schema-consistent JSON datasets (question banks and exam paper patterns) across multiple Indian education board formats for **Neevpath**, an AI-assisted school management platform.
+
 ### Nest Hostel
+A hostel management web application handling student records and hostel operations.
 
-A hostel management project focused on applying programming concepts to a practical management-oriented application.
-
-**Focus:** Software Development & Application Design
+**Repository:** [View on GitHub](https://github.com/purnachandreddy/nesthostel)
 
 ---
 
 ## What I'm Exploring
 
 ```text
+Embedded & Hardware
+    ├── ESP32
+    ├── Verilog / FPGA (Vivado)
+    ├── Sensors & Circuit Design
+    └── IoT Dashboards
+
 Programming
-    ├── Java
+    ├── C / C++
     ├── Python
     └── JavaScript
 
-Engineering
-    ├── Embedded Systems
-    ├── ESP32
-    └── Vivado
-
 Development
-    ├── Web Technologies
     ├── Git & GitHub
     └── VS Code
+```
+
+</div>
