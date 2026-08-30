@@ -155,8 +155,8 @@ Structured schema-consistent JSON datasets (question banks and exam paper patter
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=purnachandreddy&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purnachandreddy&layout=compact&hide_border=true" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=purnachandreddy&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=purnachandreddy&layout=compact&hide_border=true" height="165"/>
 </div>
 
 <br>
